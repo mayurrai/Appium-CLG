@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T15:48:53 IST" name="Default suite" finished-at="2024-10-10T15:49:11 IST" duration-ms="18181">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T15:48:53 IST" name="Default test" finished-at="2024-10-10T15:49:11 IST" duration-ms="18181">
+      <class name="PackageK21.AppiumTestCases">
+        <test-method signature="testMethod()[pri:0, instance:PackageK21.AppiumTestCases@6aeb35e6]" started-at="2024-10-10T15:48:53 IST" name="testMethod" finished-at="2024-10-10T15:49:11 IST" duration-ms="18121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- PackageK21.AppiumTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
